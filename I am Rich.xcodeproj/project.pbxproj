@@ -15,6 +15,7 @@
 		6703FA8D2827FCAB00EF4872 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6703FA8B2827FCAB00EF4872 /* LaunchScreen.storyboard */; };
 		6703FA982827FCAB00EF4872 /* I_am_RichTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6703FA972827FCAB00EF4872 /* I_am_RichTests.swift */; };
 		6703FAA22827FCAB00EF4872 /* I_am_RichUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6703FAA12827FCAB00EF4872 /* I_am_RichUITests.swift */; };
+		6703FAAF2827FF0B00EF4872 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6703FAAE2827FF0B00EF4872 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		6703FA972827FCAB00EF4872 /* I_am_RichTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = I_am_RichTests.swift; sourceTree = "<group>"; };
 		6703FA9D2827FCAB00EF4872 /* I am RichUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "I am RichUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6703FAA12827FCAB00EF4872 /* I_am_RichUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = I_am_RichUITests.swift; sourceTree = "<group>"; };
+		6703FAAE2827FF0B00EF4872 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		6703FA742827FCAA00EF4872 = {
 			isa = PBXGroup;
 			children = (
+				6703FAAE2827FF0B00EF4872 /* README.md */,
 				6703FA7F2827FCAA00EF4872 /* I am Rich */,
 				6703FA962827FCAB00EF4872 /* I am RichTests */,
 				6703FAA02827FCAB00EF4872 /* I am RichUITests */,
@@ -230,6 +233,7 @@
 			files = (
 				6703FA8D2827FCAB00EF4872 /* LaunchScreen.storyboard in Resources */,
 				6703FA8A2827FCAB00EF4872 /* Assets.xcassets in Resources */,
+				6703FAAF2827FF0B00EF4872 /* README.md in Resources */,
 				6703FA882827FCAA00EF4872 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
